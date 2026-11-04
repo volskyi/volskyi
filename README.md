@@ -19,10 +19,12 @@ a public **overview repo** below that describes what it does and how it's built.
 
 #### 🤖 Automation, running 24/7
 
+*Names changed to protect the innocent, and the websites these bots keep an eye on.* 🕶️
+
 | Project | What it is | Stack |
 |---|---|---|
-| **[Resale Scout](https://github.com/volskyi/resale-scout-overview)** | Finds underpriced second-hand gear on classifieds marketplaces: recognises models from photos, estimates real margin, pushes deals to Telegram | Python · Playwright · LLM vision · SQLite · Telegram |
-| **[Task Radar](https://github.com/volskyi/task-radar-overview)** | Watches an online work platform for newly published paid tasks and alerts within seconds, with self-renewing sessions and hot-standby failover | Python · Playwright · IMAP · systemd · Telegram |
+| **[Resale Scout](https://github.com/volskyi/resale-scout-overview)** `codename` | Finds underpriced second-hand gear on classifieds marketplaces: recognises models from photos, estimates real margin, pushes deals to Telegram | Python · Playwright · LLM vision · SQLite · Telegram |
+| **[Task Radar](https://github.com/volskyi/task-radar-overview)** `codename` | Watches an online work platform for newly published paid tasks and alerts within seconds, with self-renewing sessions and hot-standby failover | Python · Playwright · IMAP · systemd · Telegram |
 
 #### 🧰 Open source
 
