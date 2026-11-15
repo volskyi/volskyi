@@ -12,8 +12,8 @@ a public **overview repo** below that describes what it does and how it's built.
 
 | Project | What it is | Stack | |
 |---|---|---|---|
-| **[BookLab](https://github.com/volskyi/booklab-overview)** | Trilingual online bookshop with real orders, card payments, shipping integrations and an AI shopping assistant | OpenCart 4 · PHP 8.3 · MySQL · Redis · Docker · Caddy · Gemini | [live ↗](https://booklabtienda.es) |
-| **[FleetLedger](https://github.com/volskyi/fleetledger-overview)** | Multi-tenant ERP for road-transport companies: trip-level profitability, driver payroll, invoicing, AI assistant | FastAPI · Next.js · PostgreSQL · PWA | private |
+| **[BookLab](https://github.com/volskyi/booklab-overview)** | Trilingual online bookshop running the full commerce loop: checkout, card payments, shipping integrations, AI shopping assistant | OpenCart 4 · PHP 8.3 · MySQL · Redis · Docker · Caddy · Gemini | [live ↗](https://booklabtienda.es) |
+| **[FleetLedger](https://github.com/volskyi/fleetledger-overview)** | Multi-tenant ERP for road-transport companies: trip-level profitability, driver payroll, invoicing, AI assistant | FastAPI · Next.js · PostgreSQL · PWA | [live ↗](https://fl.volskyi.pro) |
 | **[ResoNative](https://github.com/volskyi/resonative-overview)** | Deterministic loudspeaker and room design platform. Physics from cited literature, no guesswork | Python · NumPy/SciPy · vanilla JS UI | [live ↗](https://rn.volskyi.pro) |
 | **[Sonarq](https://github.com/volskyi/sonarq-overview)** | Bilingual marketing site and content hub for an acoustic design studio | Astro · Tailwind · Cloudflare Pages | [live ↗](https://sonarq.es) |
 
@@ -22,7 +22,7 @@ a public **overview repo** below that describes what it does and how it's built.
 | Project | What it is | Stack |
 |---|---|---|
 | **[Techno Madrid bot](https://github.com/volskyi/techno-madrid-overview)** | Runs a music community on its own: anti-spam with new-member quarantine and strikes, plus daily scans for events with Ukrainian artists, drafted for one-tap publishing | Python · Telegram Bot API · GraphQL · SQLite · systemd |
-| **[insta-c](https://github.com/volskyi/insta-c-overview)** | Instagram growth assistant for a local bookshop: finds and scores likely readers, enforces a safe daily budget, a human makes every follow | Python · FastAPI · Playwright · SQLite |
+| **[insta-c](https://github.com/volskyi/insta-c-overview)** | Instagram growth assistant for a local bookshop: finds and scores likely readers, enforces a safe daily budget, a human makes every move | Python · FastAPI · Playwright · SQLite |
 
 #### 🕶️ Names changed to protect the innocent
 
@@ -45,7 +45,7 @@ a public **overview repo** below that describes what it does and how it's built.
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[MUZ](https://github.com/volskyi/muz-overview)** | Keeps a 250 GB music library in order: duplicates found by sound (fingerprints + sample-level null test), remixes and edits told apart, tags repaired via AcoustID, every move undoable | Python · Chromaprint · NumPy · SQLite |
+| **[Earprint](https://github.com/volskyi/earprint-overview)** | Keeps a large music library in order: duplicates found by sound (fingerprints + sample-level null test), remixes and edits told apart, tags repaired via AcoustID, every move undoable | Python · Chromaprint · NumPy · SQLite |
 | **[CryptoRisk Scanner](https://github.com/volskyi/cryptorisk-scanner-overview)** | 0–100 risk score for a crypto wallet in seconds: BTC, ETH, USDT and USDC on Bitcoin, Ethereum, Tron, TON and Solana, OFAC and on-chain sanctions checks, no backend | JavaScript · public explorers/RPC |
 
 #### 🧰 Open source
