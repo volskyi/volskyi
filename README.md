@@ -23,16 +23,11 @@ a public **overview repo** below that describes what it does and how it's built.
 |---|---|---|
 | **[Techno Madrid bot](https://github.com/volskyi/techno-madrid-overview)** | Runs a music community on its own: anti-spam with new-member quarantine and strikes, plus daily scans for events with Ukrainian artists, drafted for one-tap publishing | Python · Telegram Bot API · GraphQL · SQLite · systemd |
 | **[insta-c](https://github.com/volskyi/insta-c-overview)** | Instagram growth assistant for a local bookshop: finds and scores likely readers, enforces a safe daily budget, a human makes every move | Python · FastAPI · Playwright · SQLite |
+| **[Resale Scout](https://github.com/volskyi/resale-scout-overview)** `codename` 🕶️ | Finds underpriced second-hand gear on classifieds marketplaces: recognises models from photos, estimates real margin, pushes deals to Telegram | Python · Playwright · LLM vision · SQLite · Telegram |
+| **[Task Radar](https://github.com/volskyi/task-radar-overview)** `codename` 🕶️ | Watches an online work platform for newly published paid tasks and alerts within seconds, with self-renewing sessions and hot-standby failover | Python · Playwright · IMAP · systemd · Telegram |
+| **[Niche Probe](https://github.com/volskyi/niche-probe-overview)** `codename` 🕶️ | Validation-first affiliate hub: eight niches live at once, every click tracked before any offer exists, money only follows the winners | HTML · vanilla JS · Python generator |
 
-#### 🕶️ Names changed to protect the innocent
-
-*Codenames. The websites these projects watch stay unnamed, too.*
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[Resale Scout](https://github.com/volskyi/resale-scout-overview)** `codename` | Finds underpriced second-hand gear on classifieds marketplaces: recognises models from photos, estimates real margin, pushes deals to Telegram | Python · Playwright · LLM vision · SQLite · Telegram |
-| **[Task Radar](https://github.com/volskyi/task-radar-overview)** `codename` | Watches an online work platform for newly published paid tasks and alerts within seconds, with self-renewing sessions and hot-standby failover | Python · Playwright · IMAP · systemd · Telegram |
-| **[Niche Probe](https://github.com/volskyi/niche-probe-overview)** `codename` | Validation-first affiliate hub: eight niches live at once, every click tracked before any offer exists, money only follows the winners | HTML · vanilla JS · Python generator |
+<sub>🕶️ <code>codename</code>: names changed to protect the innocent, and the websites these bots keep an eye on.</sub>
 
 #### 🔌 Hardware + software
 
